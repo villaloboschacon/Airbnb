@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Airbnb<font size="20"></font></string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">EXPLORE</string>
+    <string name="title_saved">SAVED</string>
+    <string name="title_trips">TRIPS</string>
+    <string name="title_inbox">INBOX</string>
+    <string name="title_profile">PROFILE</string>
+</resources>
